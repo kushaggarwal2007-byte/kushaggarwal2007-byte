@@ -2,7 +2,7 @@
 
 ### 🚀 AI Systems Architect | Decentralized Swarm Specialist | Builder
 
-Passionate about engineering autonomous multi-agent architectures, scalable backends, and continuous-shift intelligent workflows.
+Engineering production-grade autonomous agent architectures, local embedded memory layers, and zero-bloat AI workflows.
 
 ---
 
@@ -14,14 +14,16 @@ Passionate about engineering autonomous multi-agent architectures, scalable back
 
 ---
 
-### ⚡ Featured Open-Source Projects
-- 🌟 **[Agent-Mesh](https://github.com/kushaggarwal2007-byte/agent-mesh)**: Decentralized, Peer-to-Peer Multi-Agent Swarm Framework with Persistent Memory & Dynamic Routing.
+### ⚡ Featured Open-Source Repositories
+- 🌟 **[Agent-Mesh](https://github.com/kushaggarwal2007-byte/agent-mesh)**: Decentralized P2P multi-agent swarm framework in Python.
+- 🕷️ **[Omni-Scraper-AI](https://github.com/kushaggarwal2007-byte/omni-scraper-ai)**: High-speed LLM-powered web intelligence & structured schema extractor.
+- 🧠 **[Memory-Engine-Py](https://github.com/kushaggarwal2007-byte/memory-engine-py)**: Embedded DuckDB memory & episodic recall layer for autonomous AI agents.
 
 ---
 
-### 🛠️ Tech Stack & Focus
+### 🛠️ Core Tech Stack
 - **Languages:** Python, TypeScript, SQL
-- **AI & Swarms:** Multi-Agent Architectures, LLM Orchestration, Autonomous Pipelines
-- **Data & Tools:** DuckDB, Vector Databases, FastAPIs, AsyncIO
+- **Frameworks & Storage:** DuckDB, AsyncIO, Vector Embeddings, FastAPIs
+- **Systems:** Decentralized Multi-Agent Swarms, Self-Healing Task Execution
 
 ⭐️ *Building the next generation of decentralized AI automation.*
