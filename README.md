@@ -52,26 +52,26 @@ I design and build **high-concurrency autonomous agent ecosystems, scalable clou
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🎬 <a href="https://github.com/kushaggarwal2007-byte/free-heygen-alternatives">free-heygen-alternatives</a></h3>
+      <p>Billion-dollar open-source AI video, talking avatars & digital human engines (LivePortrait, SadTalker, MoneyPrinterTurbo, Open-Sora) replacing HeyGen, Synthesia & Runway.</p>
+      <p><code>AI Video</code> <code>HeyGen Alternative</code> <code>Talking Avatar</code> <code>Digital Human</code></p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🔥 <a href="https://github.com/kushaggarwal2007-byte/free-saas-alternatives">free-saas-alternatives</a></h3>
-      <p>🚀 Replace \$1,000+/month in paid SaaS subscriptions (Zapier, Airtable, Calendly, Loom, Typeform, Vercel) with battle-tested open-source alternatives. Self-hosted & enterprise-ready.</p>
+      <p>Replace \$1,000+/month in paid SaaS subscriptions (Zapier, Airtable, Calendly, Loom, Typeform, Vercel) with 50 battle-tested open-source alternatives.</p>
       <p><code>Open Source</code> <code>SaaS Alternatives</code> <code>Self-Hosted</code> <code>Docker</code></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>☁️ <a href="https://github.com/kushaggarwal2007-byte/toomer-cloud">Toomer Cloud</a></h3>
       <p>Distributed microservices engine and asynchronous task execution platform designed for high-concurrency cloud automations and API brokering.</p>
       <p><code>Python</code> <code>FastAPI</code> <code>Docker</code> <code>Microservices</code></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/kushaggarwal2007-byte/toomer-bot">Toomer Bot</a></h3>
       <p>Event-driven autonomous bot engine featuring pluggable modules for real-time trigger dispatching, webhook listeners, and task execution.</p>
       <p><code>Python</code> <code>Autonomous Agents</code> <code>Task Orchestration</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💼 <a href="https://github.com/kushaggarwal2007-byte">Automations.XP Ecosystem</a></h3>
-      <p>Enterprise B2B client acquisition, instant WhatsApp lead qualification, and speed-to-lead audit pipelines.</p>
-      <p><code>B2B Automations</code> <code>Agentic Workflows</code> <code>CRM Sync</code></p>
     </td>
   </tr>
 </table>
