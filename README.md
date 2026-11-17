@@ -1,15 +1,19 @@
 <div align="center">
 
 # ⚡ Kush Aggarwal
-### **AI Automation Architect · Systems Engineer · Founder**
+### **AI Automation Architect · Full-Stack Systems Engineer · Founder**
 
 [![Automations.XP](https://img.shields.io/badge/Enterprise-Automations.XP-0A66C2?style=for-the-badge&logo=probot&logoColor=white)](https://github.com/kushaggarwal2007-byte)
 [![KAADS Productions](https://img.shields.io/badge/Media%20Engine-KAADS%20Productions-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/kushaggarwal2007-byte)
-[![Architecture](https://img.shields.io/badge/Focus-Autonomous%20Systems-2ea44f?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/kushaggarwal2007-byte)
+[![Open For Collab](https://img.shields.io/badge/Open%20For-Architecture%20%26%20Consulting-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kushaggarwal2007-byte)
 
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=Architecting+Autonomous+Multi-Agent+Systems;Engineering+Scalable+Cloud+Pipelines;Building+Automations.XP+%26+Digital+Infrastructure;Driving+High-Velocity+Compounding+Growth" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=kushaggarwal2007-byte&theme=flat&no-frame=true&margin-w=6&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -20,7 +24,7 @@
 I design and build **high-concurrency autonomous agent ecosystems, scalable cloud microservices, and end-to-end automation pipelines**. My focus lies at the intersection of generative AI orchestration, data architectures, and automated business workflows that eliminate operational bottlenecks.
 
 - 🚀 **Founder & Chief Architect** at **Automations.XP** — High-intent B2B workflow automations, speed-to-lead pipelines, and CRM integrations.
-- 🎬 **Executive Producer & Systems Lead** at **KAADS Productions** — Algorithmic media rendering engines, automated compliance checks (SAR 1:1, DAR 9:16/16:9, -14 LUFS), and high-retention distribution.
+- 🎬 **Systems & Infrastructure Lead** at **KAADS Productions** — Algorithmic media rendering engines, automated compliance checks (SAR 1:1, DAR 9:16/16:9, -14 LUFS), and high-retention distribution.
 - 🤖 **Agentic Orchestration**: Engineering decentralized, self-reliant multi-agent swarms with real-time feedback loops and automated error recovery.
 - 📈 **Continuous Optimization**: Enforcing rigorous quality compliance, zero unassigned latency, and data-backed performance metrics.
 
@@ -43,29 +47,39 @@ I design and build **high-concurrency autonomous agent ecosystems, scalable clou
 
 ---
 
-### 🚀 **Key Ventures & Core Systems**
+### 🚀 **Featured Repositories & Architectures**
 
-#### 🔹 **Automations.XP — Enterprise Workflow Automation**
-> Autonomous B2B client acquisition, instant lead capture & qualification engines, and API integrations designed to turn cold traffic into high-retention enterprise retainers.
-
-#### 🔹 **Autonomous Multi-Agent Swarms**
-> Distributed agents operating on synchronized operational loops — parallelizing data research, content generation, algorithmic compliance, and executive reporting without operational lag.
-
-#### 🔹 **KAADS Productions Algorithmic Pipeline**
-> Programmatic video generation infrastructure processing long-form and vertical formats with zero copyright exposure, dynamic frequency matching, and automated quality gating.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☁️ <a href="https://github.com/kushaggarwal2007-byte/toomer-cloud">Toomer Cloud</a></h3>
+      <p>Distributed microservices engine and asynchronous task execution platform designed for high-concurrency cloud automations and API brokering.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>Docker</code> <code>Microservices</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/kushaggarwal2007-byte/toomer-bot">Toomer Bot</a></h3>
+      <p>Event-driven autonomous bot engine featuring pluggable modules for real-time trigger dispatching, webhook listeners, and task execution.</p>
+      <p><code>Python</code> <code>Autonomous Agents</code> <code>Task Orchestration</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 **GitHub Activity & Enterprise Metrics**
+### 📊 **Activity Graph & Enterprise Telemetry**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kushaggarwal2007-byte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushaggarwal2007-byte&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kushaggarwal2007-byte&theme=tokyo-night&hide_border=true&area=true" width="97%" alt="Activity Graph" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=kushaggarwal2007-byte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushaggarwal2007-byte&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kushaggarwal2007-byte&theme=tokyonight&hide_border=true" width="97%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kushaggarwal2007-byte&theme=tokyonight&hide_border=true" width="97%" alt="Streak Stats" />
 
 </div>
 
@@ -75,5 +89,8 @@ I design and build **high-concurrency autonomous agent ecosystems, scalable clou
 
 **Enterprise Inquiries & Autonomous Solutions**  
 *Open for enterprise architecture consulting, AI agent deployments, and high-scale automation partnerships.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/kushaggarwal2007-byte)
 
 </div>
